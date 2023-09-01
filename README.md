@@ -1,38 +1,64 @@
-## Hii 👋🏾
 
+# Hii, I'm Ayodele (eye-ya-deli)
 
-### I'm Ayodele (eye-ya-deli) 🇳🇬
-she/her
+## Data Scientist | AI Auditor  | Responsible AI Educator
 
-I'm a Linkedin Learning Instructor 👩🏾‍🏫
-- [Supervised Machine Learning
-](https://www.linkedin.com/learning/supervised-learning-essential-training/supervised-machine-learning-and-the-technology-boom?autoplay=true)
-- [Tech Ethics on the Go: AI
-](https://www.linkedin.com/learning/tech-on-the-go-ethics-in-ai/introduction-to-ethical-ai-16194406?autoplay=true)
-- [Foundations of Responsible AI](https://www.linkedin.com/learning/foundations-of-responsible-ai/understanding-responsible-ai?autoplay=true&u=104)
+_🌟 Featured as one of the "100 Brilliant Women in AI Ethics" 🌟_
 
+I'm a data scientist dedicated to promoting responsible AI and fostering data justice. I come from a non-traditional background and my unique blend of skills in communications and a deep love for data, I've had the privilege of work on some amazing projects from detecting firearms with sensors, creating ML Fairness curriculums, and auditing HR algorithms for bias. I'm on a mission to make AI more responsible and ethical while helping teams understand how to operationalize these principles in their projects.
 
-I work on some really cool projects.  💅🏾
+## About Me
 
-Like a Megan thee Stallion Lyric Generator, where you can create new MTS inspired verses like:
-
-pussy taste like cherry kiwi 
-real big titties whole lotta niggas you know they wanna be me
-bitch i was chose i ain't talkin' 'bout his followers dollars and your honor i'm a open book 
-big mad 'cause your baby back see me 
-hottie uh creole mami huh she think she bad but i'm dramatic hey
+- 🧬 **Background**: My journey started with an Associates in Film and Bachelor's in Communications, before wrapping my academic career up with a Master's in Data Science from Regis University. As a career transitioner with a background in communications, I've been able to  bridge the gap between complex technical concepts and effective communication strategies.
 
 My Data Science Master's Degree Capstone was on predicting[ NHL goals](https://github.com/Ayodeleohh/hockeyGoals). 🏒🥅🚨
 
-[Girlfight*](https://github.com/Ayodeleohh/Girlfight) 🐾 A rudimentary python dictionary to explore popular female rap beefs. 
-*To save time Azalea Banks' full list of beefs has been excluded.
+- 🤖 **Data Science Enthusiast**: I'm a data science enthusiast with a strong focus on ethics and responsible AI. With a keen eye for data and a love for solving complex problems, I've been working as a Data Scientist for in the field of data science for 7 years. Lately, I've been working a lot with NLP, performing statistical audits of AI systems, and toying with Generative AI.
 
-Interesting to know the rapper who has gotten into the least amount of beefs is Khia. The “My Neck, My Back” rapper has only been in one major beef with  Trina.
+- 👩‍🏫 **Responsible AI**: I've had the incredible opportunity to develop responsible machine learning education programs at companies like Microsoft and Priceline. Sharing knowledge is a passion of mine, and I'm always excited to help others learn and grow.
 
-[Trump Regrets](https://github.com/Ayodeleohh/Trump-Regrets) 😭 As part of my Text Analysis and Natural Language Processing course in grad school, I created a sentiment analysis comparing the tweets of Donald Trump to those who regret voting for him. Below is a word cloud of common words used by those who regret voting for him.
+## What I Do
 
-- I'm passionate about Data Science education
-- 👯 I’m looking to collaborate on projects & papers around machine bias, fairness metrics, & understanding power structures in AI.
+I'm on a mission to make AI more ethical, understandable, and accessible. Here's what I'm working on:
+
+- 📊 **AI Auditor**: With a discerning eye for data quality and ethics, I specialize in auditing AI systems to assess fairness, transparency, and compliance with ethical guidelines. My goal is to help organizations build trust in their AI solutions.
+  
+- 📈 **Data Governance Manager**: In my capacity as a data governance manager, I orchestrate the strategies and policies that govern data within organizations. I believe in the power of well-managed data to drive informed decision-making while upholding privacy and security.
+
+- 🤝 **Collaboration**: Collaborating with organizations and teams to implement responsible AI strategies and ensure that AI technologies are developed and deployed with fairness and accountability in mind.
+
+- 📢 **Public Speaking**: Speaking at conferences, workshops, and webinars to share my knowledge and insights about data justice, responsible AI, and the intersection of data science and communications.
+
+  Some of my talks:
+  - [White Supremacy in Data]([url](https://youtu.be/jete1vyYsuc?si=GCfgP0NTEB7gxJ5M))
+  - [How to Use AI to Improve Diversity]([url](https://youtu.be/2ZmwrxyK6Io?si=sQ84j72jtEfVw8Aj))
+  - [Tangible Steps Towards Algorithmic Accountability]([url](https://youtu.be/DXD4FeeRETg?si=pTyTvSbRyC4QjMfV))
+  - [Algorithmic Bias: Data As A Weapon]([url](https://youtu.be/SaVxBpCa490?si=uZinYHi7PmhtJhtO))
+  - [Building Diverse Data Teams]([url](https://youtu.be/n_3xeBKinpQ?si=fNVrh3_7E_Uxgzkc))
+
+
+## Blog
+I also occasionally write about topics related to data science, AI ethics, and responsible machine learning on my personal [blog]([url](https://www.ayodeleodubela.com/blog)). Feel free to check it out for some insightful articles!
+
+## Recognition
+
+I'm incredibly honored to have been recognized as one of the [100 Brilliant Women in AI Ethics]([url](https://womeninaiethics.org/the-list/of-2021/)). This recognition motivates me to continue my journey towards a more responsible and just AI landscape.
+
+## Collaborate with Me
+
+Let's work together to build a fairer AI future. I'm actively working on open-source projects in AI equity and looking for collaborators.
+Feel free to reach out to me through the following channels:
+
+- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
+- 👩🏾‍💻 **Homepage**: [www.ayodeleodubela.com]([url](https://www.ayodeleodubela.com))
+- 💼 **LinkedIn**: [Ayodele Odubela](https://www.linkedin.com/in/ayodele-odubela/)
+- 🐦 **Twitter**: [@Ayodele_Odbeka](https://twitter.com/Ayodele_Odubela)
+- 🎥 **TikTok**: [@AIwithAyo](https://www.tiktok.com/@aiwithayo))
+
+
+---
+
+*Note: This README is a template and should be customized to reflect your own experiences and contributions.*
 
 
 
