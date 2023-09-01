@@ -49,10 +49,9 @@ I'm incredibly honored to have been recognized as one of the [100 Brilliant Wome
 Let's work together to build a fairer AI future. I'm actively working on open-source projects in AI equity and looking for collaborators.
 Feel free to reach out to me through the following channels:
 
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
 - 👩🏾‍💻 **Homepage**: [www.ayodeleodubela.com]([url](https://www.ayodeleodubela.com))
 - 💼 **LinkedIn**: [Ayodele Odubela](https://www.linkedin.com/in/ayodele-odubela/)
-- 🐦 **Twitter**: [@Ayodele_Odbeka](https://twitter.com/Ayodele_Odubela)
+- 🐦 **Twitter**: [@Ayodele_Odubela](https://twitter.com/Ayodele_Odubela)
 - 🎥 **TikTok**: [@AIwithAyo](https://www.tiktok.com/@aiwithayo))
 
 
