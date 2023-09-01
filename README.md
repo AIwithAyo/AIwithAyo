@@ -30,11 +30,11 @@ I'm on a mission to make AI more ethical, understandable, and accessible. Here's
 - 📢 **Public Speaking**: Speaking at conferences, workshops, and webinars to share my knowledge and insights about data justice, responsible AI, and the intersection of data science and communications.
 
   Some of my talks:
-  - [White Supremacy in Data]([url](https://youtu.be/jete1vyYsuc?si=GCfgP0NTEB7gxJ5M))
-  - [How to Use AI to Improve Diversity]([url](https://youtu.be/2ZmwrxyK6Io?si=sQ84j72jtEfVw8Aj))
-  - [Tangible Steps Towards Algorithmic Accountability]([url](https://youtu.be/DXD4FeeRETg?si=pTyTvSbRyC4QjMfV))
-  - [Algorithmic Bias: Data As A Weapon]([url](https://youtu.be/SaVxBpCa490?si=uZinYHi7PmhtJhtO))
-  - [Building Diverse Data Teams]([url](https://youtu.be/n_3xeBKinpQ?si=fNVrh3_7E_Uxgzkc))
+  - [White Supremacy in Data]([https://youtu.be/jete1vyYsuc?si=GCfgP0NTEB7gxJ5M)])
+  - [How to Use AI to Improve Diversity]([https://youtu.be/2ZmwrxyK6Io?si=sQ84j72jtEfVw8Aj])
+  - [Tangible Steps Towards Algorithmic Accountability]([https://youtu.be/DXD4FeeRETg?si=pTyTvSbRyC4QjMfV])
+  - [Algorithmic Bias: Data As A Weapon]([https://youtu.be/SaVxBpCa490?si=uZinYHi7PmhtJhtO])
+  - [Building Diverse Data Teams]([https://youtu.be/n_3xeBKinpQ?si=fNVrh3_7E_Uxgzkc])
 
 
 ## Blog
