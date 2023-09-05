@@ -10,8 +10,8 @@ I'm a data scientist dedicated to promoting responsible AI and fostering data ju
 ## About Me
 
 - 🧬 **Background**: My journey started with an Associates in Film and Bachelor's in Communications, before wrapping my academic career up with a Master's in Data Science from Regis University. As a career transitioner with a background in communications, I've been able to  bridge the gap between complex technical concepts and effective communication strategies.
-
-My Data Science Master's Degree Capstone was on predicting[ NHL goals](https://github.com/Ayodeleohh/hockeyGoals). 🏒🥅🚨
+- Contributed to the EDNA drone project.
+- My Master's Thesis was on predicting[ NHL goals](https://github.com/Ayodeleohh/hockeyGoals). 🏒🥅🚨
 
 - 🤖 **Data Science Enthusiast**: I'm a data science enthusiast with a strong focus on ethics and responsible AI. With a keen eye for data and a love for solving complex problems, I've been working as a Data Scientist for in the field of data science for 7 years. Lately, I've been working a lot with NLP, performing statistical audits of AI systems, and toying with Generative AI.
 
@@ -49,15 +49,11 @@ I'm incredibly honored to have been recognized as one of the [100 Brilliant Wome
 Let's work together to build a fairer AI future. I'm actively working on open-source projects in AI equity and looking for collaborators.
 Feel free to reach out to me through the following channels:
 
-- 👩🏾‍💻 **Homepage**: [www.ayodeleodubela.com]([url](https://www.ayodeleodubela.com))
+- 👩🏾‍💻 **My Homepage**: [www.ayodeleodubela.com]([url](https://www.ayodeleodubela.com))
 - 💼 **LinkedIn**: [Ayodele Odubela](https://www.linkedin.com/in/ayodele-odubela/)
 - 🐦 **Twitter**: [@Ayodele_Odubela](https://twitter.com/Ayodele_Odubela)
 - 🎥 **TikTok**: [@AIwithAyo](https://www.tiktok.com/@aiwithayo))
 
-
 ---
-
-*Note: This README is a template and should be customized to reflect your own experiences and contributions.*
-
 
 
